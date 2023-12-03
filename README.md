@@ -1,6 +1,6 @@
 # Retinal-Disease-Checker
 
-#There is a google drive link where you can download the full app
+# There is a google drive link where you can download the full app
 
 Git LFS is annoying
 
