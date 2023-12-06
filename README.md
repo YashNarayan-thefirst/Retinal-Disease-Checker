@@ -9,3 +9,5 @@ It takes an image as input and gives the result in a text format
 Made in ~3 hours
 
 Special thanks to Pranav Narang(popilworck)
+
+Dataset link: https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification
