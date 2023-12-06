@@ -5,7 +5,7 @@ from keras.applications import MobileNetV2
 from keras import layers, models, optimizers
 
 # Path to your dataset directory
-data_dir = r"C:\Users\naray\Desktop\_pyth\Eye_tester\archive\dataset"
+data_dir = r""
 
 # Image size for MobileNetV2 input
 image_size = (224, 224)
