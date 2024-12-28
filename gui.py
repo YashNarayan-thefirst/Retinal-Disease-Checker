@@ -13,10 +13,9 @@ def s():
     parser.add_argument('Image', help='Upload an image\nThe AI can only recognize: \n1. Cataracts\n2. Diabetic retinopathy\n3. Glaucoma\n4. Normal eyes', widget='FileChooser')
     args = parser.parse_args()
 
-    # Call the classify function with the provided image path
     result = classify(args.Image)
 
-    # Display the image and the classification result in the console
+
     print(f"Image Classification Result: {result}")
 
 def classify(img_path):
